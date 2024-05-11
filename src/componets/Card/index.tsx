@@ -84,14 +84,14 @@ const TodoApp: React.FC = () => {
         <div className="Todo">
           <div>
             <div className="headerr flex">
-              {/* <button
+              <button
                 className="btn text-white bg-[#6270EF] border-none w-[120px] h-[10px]"
                 onClick={() =>
-                  // document.getElementById("my_modal_2").showModal()
+                  document.getElementById("my_modal_2").showModal()
                 }
               >
                 Add Task
-              </button> */}
+              </button>
               <dialog id="my_modal_2" className="modal">
                 <div className="modal-box">
                   <input
