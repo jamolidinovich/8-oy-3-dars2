@@ -1,0 +1,13 @@
+.containerr {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #f8f9ff;
+  margin-top: 100px;
+  padding-bottom: 20px;
+}
+.headerr {
+  width: 700px;
+  margin-left: 110px;
+  margin-right: 110px;
+}
